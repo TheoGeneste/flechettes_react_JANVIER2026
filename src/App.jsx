@@ -9,7 +9,7 @@ function App() {
   // { "pseudo": "J3", score: "501", histo: [] },
   // { "pseudo": "J4", score: "501", histo: [] }]
 
-  const [gameMode, setGameMode] = useState(301);
+  const [gameMode, setGameMode] = useState("301");
   const [typeOutOfGame, setTypeOutOfGame] = useState("Double");
   const [page, setPage] = useState("Config");
 
