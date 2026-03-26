@@ -32,6 +32,7 @@ const Config = ({ players, setPlayers,gameMode, setGameMode, typeOutOfGame, setT
         }
 
         // Vérifier que le gameMode correspond à un element du tableau gameModes
+        
         if (!gameModes.includes(gameMode)) {
             newErrors.gameMode = "Le mode de jeu selectionné n'existe pas !";
 
