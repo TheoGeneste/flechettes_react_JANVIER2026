@@ -103,7 +103,14 @@ input[type="submit"] {
   margin-top: 20px;
   box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
 }
-
+.error {
+  color: #ff4d4f;
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-top: -8px;
+  margin-bottom: 10px;
+  display: block;
+}
 /* État hover du bouton */
 input[type="submit"]:hover {
   transform: translateY(-2px);
