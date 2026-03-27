@@ -2,11 +2,10 @@ import { useEffect, useState } from "react";
 import "../styles/config.css"
 import { toast } from "react-toastify";
 
-const Config = ({ players, setPlayers,gameMode, setGameMode, typeOutOfGame, setTypeOutOfGame,setPage }) => {
+const Config = ({ players, setPlayers, gameMode, setGameMode, typeOutOfGame, setTypeOutOfGame, setPage }) => {
     const [numberPlayer, setNumberPlayer] = useState(2);
     const gameModes = ["301", "501", "701"];
-    const [errors, setErrors] = useState({})
-
+    const [errors, setErrors] = useState({});
 
     const handleChange = (e, postionPlayer) => {
         let updatePlayers = [...players];
@@ -32,7 +31,7 @@ const Config = ({ players, setPlayers,gameMode, setGameMode, typeOutOfGame, setT
         }
 
         // Vérifier que le gameMode correspond à un element du tableau gameModes
-        
+
         if (!gameModes.includes(gameMode)) {
             newErrors.gameMode = "Le mode de jeu selectionné n'existe pas !";
 
@@ -41,62 +40,67 @@ const Config = ({ players, setPlayers,gameMode, setGameMode, typeOutOfGame, setT
         // Vérifier que le typeOutOfGame correspond à Simple ou Double
         if (typeOutOfGame != "Simple" && typeOutOfGame != "Double") {
             newErrors.typeOutOfGame = "Le mode de sortie selectionné n'existe pas !";
-            
+
         }
 
         if (Object.keys(newErrors).length > 0) {
             setErrors(newErrors);
-            console.log("On a des erreurs", newErrors);
             toast.error("Vérifier le formulaire")
             return;
-        }else{
+        } else {
+            toast.success("Bonne partie ! Que le meilleur gagne !")
             setPage("Game")
         }
-        console.log(players, gameMode, typeOutOfGame);
     }
 
-    useEffect(()=> {
-        let newPlayers = [...players]; 
-        setPlayers(newPlayers.slice(0,numberPlayer))
+    useEffect(() => {
+        let newPlayers = [...players];
+        setPlayers(newPlayers.slice(0, numberPlayer))
     }, [numberPlayer])
 
     useEffect(() => {
         let newPlayers = players.map((player) => {
-            return { pseudo: player.pseudo , score: gameMode, histo: player.histo }
-        }); 
+            return { pseudo: player.pseudo, score: gameMode, histo: player.histo }
+        });
         setPlayers(newPlayers);
-        
+
     }, [gameMode])
 
 
     return <>
         <form onSubmit={handleSubmit}>
             <label htmlFor="numberPlayer">Nombre de joueurs</label>
-            <input id="numberPlayer" type="number" min={0} value={numberPlayer} 
-            onChange={(e) => {
-                if (e.target.value >=2) {
-                    setNumberPlayer(e.target.value);
-                }
-                // let newPlayers = [...players]; 
-                // setPlayers(newPlayers.slice(0, e.target.value))
-            }} required />
+            <input id="numberPlayer" type="number" min={2} value={numberPlayer}
+                onChange={(e) => {
+                    if (e.target.value >= 2) {
+                        setNumberPlayer(e.target.value);
+                    }
+                    // let newPlayers = [...players]; 
+                    // setPlayers(newPlayers.slice(0, e.target.value))
+                }} required />
+            {errors.numberPlayer && <span className="error">{errors.numberPlayer}</span>}
             {Array.from({ length: numberPlayer }).map((_, index) => {
                 return <div key={index}>
-                    <label htmlFor={`player${index+1}`}>Player {index + 1 }</label>
-                    <input type="text" name="pseudo" id={`player${index+1}`} onChange={(e) => handleChange(e, index)} required aria-required/>
+                    <label htmlFor={`player${index + 1}`}>Player {index + 1}</label>
+                    <input type="text" name="pseudo" id={`player${index + 1}`} onChange={(e) => handleChange(e, index)} required aria-required />
                 </div>
             })}
+            {errors.players && <span className="error">{errors.players}</span>}
             <label htmlFor="gameMode">Mode de jeu</label>
-            <select name="gameMode" id="gameMode" value={gameMode} onChange={(e) => {setGameMode(e.target.value)}}>
+            <select name="gameMode" id="gameMode" value={gameMode} onChange={(e) => { setGameMode(e.target.value) }}>
                 {gameModes.map((mode) => {
                     return <option key={mode} value={mode}>{mode}</option>
                 })}
             </select>
+            {errors.gameMode && <span className="error">{errors.gameMode}</span>}
+
             <label htmlFor="typeOutOfGame">Type de sortie</label>
-            <select name="typeOutOfGame" id="typeOutOfGame" value={typeOutOfGame} onChange={(e) => {setTypeOutOfGame(e.target.value)}}>
+            <select name="typeOutOfGame" id="typeOutOfGame" value={typeOutOfGame} onChange={(e) => { setTypeOutOfGame(e.target.value) }}>
                 <option value="Simple">Simple</option>
                 <option value="Double">Double</option>
             </select>
+            {errors.typeOutOfGame && <span className="error">{errors.typeOutOfGame}</span>}
+
             <input type="submit" value={"Commencer"} />
         </form>
     </>;
