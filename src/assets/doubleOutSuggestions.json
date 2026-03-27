@@ -1,0 +1,1298 @@
+{
+    "2": [
+        {
+            "score": 2,
+            "suggestion": "D1",
+            "description": "Double 1",
+            "dartsNeeded": 1
+        }
+    ],
+    "3": [
+        {
+            "score": 3,
+            "suggestion": "S1 D1",
+            "description": "Single 1 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "4": [
+        {
+            "score": 4,
+            "suggestion": "D2",
+            "description": "Double 2",
+            "dartsNeeded": 1
+        }
+    ],
+    "5": [
+        {
+            "score": 5,
+            "suggestion": "T1 D1",
+            "description": "Triple 1 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "6": [
+        {
+            "score": 6,
+            "suggestion": "D3",
+            "description": "Double 3",
+            "dartsNeeded": 1
+        }
+    ],
+    "7": [
+        {
+            "score": 7,
+            "suggestion": "S5 D1",
+            "description": "Single 5 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "8": [
+        {
+            "score": 8,
+            "suggestion": "D4",
+            "description": "Double 4",
+            "dartsNeeded": 1
+        }
+    ],
+    "9": [
+        {
+            "score": 9,
+            "suggestion": "S7 D1",
+            "description": "Single 7 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "10": [
+        {
+            "score": 10,
+            "suggestion": "D5",
+            "description": "Double 5",
+            "dartsNeeded": 1
+        }
+    ],
+    "11": [
+        {
+            "score": 11,
+            "suggestion": "T3 D1",
+            "description": "Triple 3 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "12": [
+        {
+            "score": 12,
+            "suggestion": "D6",
+            "description": "Double 6",
+            "dartsNeeded": 1
+        }
+    ],
+    "13": [
+        {
+            "score": 13,
+            "suggestion": "S11 D1",
+            "description": "Single 11 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "14": [
+        {
+            "score": 14,
+            "suggestion": "D7",
+            "description": "Double 7",
+            "dartsNeeded": 1
+        }
+    ],
+    "15": [
+        {
+            "score": 15,
+            "suggestion": "S13 D1",
+            "description": "Single 13 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "16": [
+        {
+            "score": 16,
+            "suggestion": "D8",
+            "description": "Double 8",
+            "dartsNeeded": 1
+        }
+    ],
+    "17": [
+        {
+            "score": 17,
+            "suggestion": "T5 D1",
+            "description": "Triple 5 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "18": [
+        {
+            "score": 18,
+            "suggestion": "D9",
+            "description": "Double 9",
+            "dartsNeeded": 1
+        }
+    ],
+    "19": [
+        {
+            "score": 19,
+            "suggestion": "S17 D1",
+            "description": "Single 17 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "20": [
+        {
+            "score": 20,
+            "suggestion": "D10",
+            "description": "Double 10",
+            "dartsNeeded": 1
+        }
+    ],
+    "21": [
+        {
+            "score": 21,
+            "suggestion": "S19 D1",
+            "description": "Single 19 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "22": [
+        {
+            "score": 22,
+            "suggestion": "D11",
+            "description": "Double 11",
+            "dartsNeeded": 1
+        }
+    ],
+    "23": [
+        {
+            "score": 23,
+            "suggestion": "T7 D1",
+            "description": "Triple 7 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "24": [
+        {
+            "score": 24,
+            "suggestion": "D12",
+            "description": "Double 12",
+            "dartsNeeded": 1
+        }
+    ],
+    "25": [
+        {
+            "score": 25,
+            "suggestion": "T7 D2",
+            "description": "Triple 7 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "26": [
+        {
+            "score": 26,
+            "suggestion": "D13",
+            "description": "Double 13",
+            "dartsNeeded": 1
+        }
+    ],
+    "27": [
+        {
+            "score": 27,
+            "suggestion": "S25 D1",
+            "description": "Single 25 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "28": [
+        {
+            "score": 28,
+            "suggestion": "D14",
+            "description": "Double 14",
+            "dartsNeeded": 1
+        }
+    ],
+    "29": [
+        {
+            "score": 29,
+            "suggestion": "T9 D1",
+            "description": "Triple 9 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "30": [
+        {
+            "score": 30,
+            "suggestion": "D15",
+            "description": "Double 15",
+            "dartsNeeded": 1
+        }
+    ],
+    "31": [
+        {
+            "score": 31,
+            "suggestion": "T9 D2",
+            "description": "Triple 9 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "32": [
+        {
+            "score": 32,
+            "suggestion": "D16",
+            "description": "Double 16",
+            "dartsNeeded": 1
+        }
+    ],
+    "33": [
+        {
+            "score": 33,
+            "suggestion": "T9 D3",
+            "description": "Triple 9 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "34": [
+        {
+            "score": 34,
+            "suggestion": "D17",
+            "description": "Double 17",
+            "dartsNeeded": 1
+        }
+    ],
+    "35": [
+        {
+            "score": 35,
+            "suggestion": "T11 D1",
+            "description": "Triple 11 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "36": [
+        {
+            "score": 36,
+            "suggestion": "D18",
+            "description": "Double 18",
+            "dartsNeeded": 1
+        }
+    ],
+    "37": [
+        {
+            "score": 37,
+            "suggestion": "T11 D2",
+            "description": "Triple 11 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "38": [
+        {
+            "score": 38,
+            "suggestion": "D19",
+            "description": "Double 19",
+            "dartsNeeded": 1
+        }
+    ],
+    "39": [
+        {
+            "score": 39,
+            "suggestion": "T11 D3",
+            "description": "Triple 11 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "40": [
+        {
+            "score": 40,
+            "suggestion": "D20",
+            "description": "Double 20",
+            "dartsNeeded": 1
+        }
+    ],
+    "41": [
+        {
+            "score": 41,
+            "suggestion": "T13 D1",
+            "description": "Triple 13 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "42": [
+        {
+            "score": 42,
+            "suggestion": "D20 D1",
+            "description": "Double 20 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "43": [
+        {
+            "score": 43,
+            "suggestion": "T13 D2",
+            "description": "Triple 13 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "44": [
+        {
+            "score": 44,
+            "suggestion": "T14 D1",
+            "description": "Triple 14 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "45": [
+        {
+            "score": 45,
+            "suggestion": "T13 D3",
+            "description": "Triple 13 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "46": [
+        {
+            "score": 46,
+            "suggestion": "T14 D2",
+            "description": "Triple 14 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "47": [
+        {
+            "score": 47,
+            "suggestion": "T15 D1",
+            "description": "Triple 15 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "48": [
+        {
+            "score": 48,
+            "suggestion": "T14 D3",
+            "description": "Triple 14 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "49": [
+        {
+            "score": 49,
+            "suggestion": "T15 D2",
+            "description": "Triple 15 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "50": [
+        {
+            "score": 50,
+            "suggestion": "D25",
+            "description": "Double 25 (bull)",
+            "dartsNeeded": 1
+        }
+    ],
+    "51": [
+        {
+            "score": 51,
+            "suggestion": "T15 D3",
+            "description": "Triple 15 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "52": [
+        {
+            "score": 52,
+            "suggestion": "D25 D1",
+            "description": "Double 25 (bull) + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "53": [
+        {
+            "score": 53,
+            "suggestion": "T17 D1",
+            "description": "Triple 17 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "54": [
+        {
+            "score": 54,
+            "suggestion": "D25 D2",
+            "description": "Double 25 (bull) + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "55": [
+        {
+            "score": 55,
+            "suggestion": "T17 D2",
+            "description": "Triple 17 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "56": [
+        {
+            "score": 56,
+            "suggestion": "T18 D1",
+            "description": "Triple 18 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "57": [
+        {
+            "score": 57,
+            "suggestion": "T17 D3",
+            "description": "Triple 17 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "58": [
+        {
+            "score": 58,
+            "suggestion": "T18 D2",
+            "description": "Triple 18 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "59": [
+        {
+            "score": 59,
+            "suggestion": "T19 D1",
+            "description": "Triple 19 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "60": [
+        {
+            "score": 60,
+            "suggestion": "T18 D3",
+            "description": "Triple 18 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "61": [
+        {
+            "score": 61,
+            "suggestion": "T19 D2",
+            "description": "Triple 19 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "62": [
+        {
+            "score": 62,
+            "suggestion": "T20 D1",
+            "description": "Triple 20 + Double 1",
+            "dartsNeeded": 2
+        }
+    ],
+    "63": [
+        {
+            "score": 63,
+            "suggestion": "T19 D3",
+            "description": "Triple 19 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "64": [
+        {
+            "score": 64,
+            "suggestion": "T20 D2",
+            "description": "Triple 20 + Double 2",
+            "dartsNeeded": 2
+        }
+    ],
+    "65": [
+        {
+            "score": 65,
+            "suggestion": "T19 D4",
+            "description": "Triple 19 + Double 4",
+            "dartsNeeded": 2
+        }
+    ],
+    "66": [
+        {
+            "score": 66,
+            "suggestion": "T20 D3",
+            "description": "Triple 20 + Double 3",
+            "dartsNeeded": 2
+        }
+    ],
+    "67": [
+        {
+            "score": 67,
+            "suggestion": "T19 D5",
+            "description": "Triple 19 + Double 5",
+            "dartsNeeded": 2
+        }
+    ],
+    "68": [
+        {
+            "score": 68,
+            "suggestion": "T20 D4",
+            "description": "Triple 20 + Double 4",
+            "dartsNeeded": 2
+        }
+    ],
+    "69": [
+        {
+            "score": 69,
+            "suggestion": "T19 D6",
+            "description": "Triple 19 + Double 6",
+            "dartsNeeded": 2
+        }
+    ],
+    "70": [
+        {
+            "score": 70,
+            "suggestion": "T20 D5",
+            "description": "Triple 20 + Double 5",
+            "dartsNeeded": 2
+        }
+    ],
+    "71": [
+        {
+            "score": 71,
+            "suggestion": "T19 D7",
+            "description": "Triple 19 + Double 7",
+            "dartsNeeded": 2
+        }
+    ],
+    "72": [
+        {
+            "score": 72,
+            "suggestion": "T20 D6",
+            "description": "Triple 20 + Double 6",
+            "dartsNeeded": 2
+        }
+    ],
+    "73": [
+        {
+            "score": 73,
+            "suggestion": "T19 D8",
+            "description": "Triple 19 + Double 8",
+            "dartsNeeded": 2
+        }
+    ],
+    "74": [
+        {
+            "score": 74,
+            "suggestion": "T20 D7",
+            "description": "Triple 20 + Double 7",
+            "dartsNeeded": 2
+        }
+    ],
+    "75": [
+        {
+            "score": 75,
+            "suggestion": "T19 D9",
+            "description": "Triple 19 + Double 9",
+            "dartsNeeded": 2
+        }
+    ],
+    "76": [
+        {
+            "score": 76,
+            "suggestion": "T20 D8",
+            "description": "Triple 20 + Double 8",
+            "dartsNeeded": 2
+        }
+    ],
+    "77": [
+        {
+            "score": 77,
+            "suggestion": "T19 D10",
+            "description": "Triple 19 + Double 10",
+            "dartsNeeded": 2
+        }
+    ],
+    "78": [
+        {
+            "score": 78,
+            "suggestion": "T20 D9",
+            "description": "Triple 20 + Double 9",
+            "dartsNeeded": 2
+        }
+    ],
+    "79": [
+        {
+            "score": 79,
+            "suggestion": "T19 D11",
+            "description": "Triple 19 + Double 11",
+            "dartsNeeded": 2
+        }
+    ],
+    "80": [
+        {
+            "score": 80,
+            "suggestion": "T20 D10",
+            "description": "Triple 20 + Double 10",
+            "dartsNeeded": 2
+        }
+    ],
+    "81": [
+        {
+            "score": 81,
+            "suggestion": "T19 D12",
+            "description": "Triple 19 + Double 12",
+            "dartsNeeded": 2
+        }
+    ],
+    "82": [
+        {
+            "score": 82,
+            "suggestion": "T20 D11",
+            "description": "Triple 20 + Double 11",
+            "dartsNeeded": 2
+        }
+    ],
+    "83": [
+        {
+            "score": 83,
+            "suggestion": "T19 D13",
+            "description": "Triple 19 + Double 13",
+            "dartsNeeded": 2
+        }
+    ],
+    "84": [
+        {
+            "score": 84,
+            "suggestion": "T20 D12",
+            "description": "Triple 20 + Double 12",
+            "dartsNeeded": 2
+        }
+    ],
+    "85": [
+        {
+            "score": 85,
+            "suggestion": "T19 D14",
+            "description": "Triple 19 + Double 14",
+            "dartsNeeded": 2
+        }
+    ],
+    "86": [
+        {
+            "score": 86,
+            "suggestion": "T20 D13",
+            "description": "Triple 20 + Double 13",
+            "dartsNeeded": 2
+        }
+    ],
+    "87": [
+        {
+            "score": 87,
+            "suggestion": "T19 D15",
+            "description": "Triple 19 + Double 15",
+            "dartsNeeded": 2
+        }
+    ],
+    "88": [
+        {
+            "score": 88,
+            "suggestion": "T20 D14",
+            "description": "Triple 20 + Double 14",
+            "dartsNeeded": 2
+        }
+    ],
+    "89": [
+        {
+            "score": 89,
+            "suggestion": "T19 D16",
+            "description": "Triple 19 + Double 16",
+            "dartsNeeded": 2
+        }
+    ],
+    "90": [
+        {
+            "score": 90,
+            "suggestion": "T20 D15",
+            "description": "Triple 20 + Double 15",
+            "dartsNeeded": 2
+        }
+    ],
+    "91": [
+        {
+            "score": 91,
+            "suggestion": "T19 D17",
+            "description": "Triple 19 + Double 17",
+            "dartsNeeded": 2
+        }
+    ],
+    "92": [
+        {
+            "score": 92,
+            "suggestion": "T20 D16",
+            "description": "Triple 20 + Double 16",
+            "dartsNeeded": 2
+        }
+    ],
+    "93": [
+        {
+            "score": 93,
+            "suggestion": "T19 D18",
+            "description": "Triple 19 + Double 18",
+            "dartsNeeded": 2
+        }
+    ],
+    "94": [
+        {
+            "score": 94,
+            "suggestion": "T20 D17",
+            "description": "Triple 20 + Double 17",
+            "dartsNeeded": 2
+        }
+    ],
+    "95": [
+        {
+            "score": 95,
+            "suggestion": "T19 D19",
+            "description": "Triple 19 + Double 19",
+            "dartsNeeded": 2
+        }
+    ],
+    "96": [
+        {
+            "score": 96,
+            "suggestion": "T20 D18",
+            "description": "Triple 20 + Double 18",
+            "dartsNeeded": 2
+        }
+    ],
+    "97": [
+        {
+            "score": 97,
+            "suggestion": "T19 D20",
+            "description": "Triple 19 + Double 20",
+            "dartsNeeded": 2
+        }
+    ],
+    "98": [
+        {
+            "score": 98,
+            "suggestion": "T20 D19",
+            "description": "Triple 20 + Double 19",
+            "dartsNeeded": 2
+        }
+    ],
+    "99": [
+        {
+            "score": 99,
+            "suggestion": "T20 T11 D3",
+            "description": "Triple 20 + Triple 11 + Double 3",
+            "dartsNeeded": 3
+        }
+    ],
+    "100": [
+        {
+            "score": 100,
+            "suggestion": "T20 D20",
+            "description": "Triple 20 + Double 20",
+            "dartsNeeded": 2
+        }
+    ],
+    "101": [
+        {
+            "score": 101,
+            "suggestion": "T17 D25",
+            "description": "Triple 17 + Double 25 (bull)",
+            "dartsNeeded": 2
+        }
+    ],
+    "102": [
+        {
+            "score": 102,
+            "suggestion": "T20 D20 D1",
+            "description": "Triple 20 + Double 20 + Double 1",
+            "dartsNeeded": 3
+        }
+    ],
+    "103": [
+        {
+            "score": 103,
+            "suggestion": "T20 T13 D2",
+            "description": "Triple 20 + Triple 13 + Double 2",
+            "dartsNeeded": 3
+        }
+    ],
+    "104": [
+        {
+            "score": 104,
+            "suggestion": "T18 D25",
+            "description": "Triple 18 + Double 25 (bull)",
+            "dartsNeeded": 2
+        }
+    ],
+    "105": [
+        {
+            "score": 105,
+            "suggestion": "T20 T13 D3",
+            "description": "Triple 20 + Triple 13 + Double 3",
+            "dartsNeeded": 3
+        }
+    ],
+    "106": [
+        {
+            "score": 106,
+            "suggestion": "T20 T14 D2",
+            "description": "Triple 20 + Triple 14 + Double 2",
+            "dartsNeeded": 3
+        }
+    ],
+    "107": [
+        {
+            "score": 107,
+            "suggestion": "T19 D25",
+            "description": "Triple 19 + Double 25 (bull)",
+            "dartsNeeded": 2
+        }
+    ],
+    "108": [
+        {
+            "score": 108,
+            "suggestion": "T20 T14 D3",
+            "description": "Triple 20 + Triple 14 + Double 3",
+            "dartsNeeded": 3
+        }
+    ],
+    "109": [
+        {
+            "score": 109,
+            "suggestion": "T20 T15 D2",
+            "description": "Triple 20 + Triple 15 + Double 2",
+            "dartsNeeded": 3
+        }
+    ],
+    "110": [
+        {
+            "score": 110,
+            "suggestion": "T20 D25",
+            "description": "Triple 20 + Double 25 (bull)",
+            "dartsNeeded": 2
+        }
+    ],
+    "111": [
+        {
+            "score": 111,
+            "suggestion": "T20 T15 D3",
+            "description": "Triple 20 + Triple 15 + Double 3",
+            "dartsNeeded": 3
+        }
+    ],
+    "112": [
+        {
+            "score": 112,
+            "suggestion": "T20 D25 D1",
+            "description": "Triple 20 + Double 25 (bull) + Double 1",
+            "dartsNeeded": 3
+        }
+    ],
+    "113": [
+        {
+            "score": 113,
+            "suggestion": "T20 T17 D1",
+            "description": "Triple 20 + Triple 17 + Double 1",
+            "dartsNeeded": 3
+        }
+    ],
+    "114": [
+        {
+            "score": 114,
+            "suggestion": "T20 D25 D2",
+            "description": "Triple 20 + Double 25 (bull) + Double 2",
+            "dartsNeeded": 3
+        }
+    ],
+    "115": [
+        {
+            "score": 115,
+            "suggestion": "T20 T17 D2",
+            "description": "Triple 20 + Triple 17 + Double 2",
+            "dartsNeeded": 3
+        }
+    ],
+    "116": [
+        {
+            "score": 116,
+            "suggestion": "T20 T18 D1",
+            "description": "Triple 20 + Triple 18 + Double 1",
+            "dartsNeeded": 3
+        }
+    ],
+    "117": [
+        {
+            "score": 117,
+            "suggestion": "T20 T17 D3",
+            "description": "Triple 20 + Triple 17 + Double 3",
+            "dartsNeeded": 3
+        }
+    ],
+    "118": [
+        {
+            "score": 118,
+            "suggestion": "T20 T18 D2",
+            "description": "Triple 20 + Triple 18 + Double 2",
+            "dartsNeeded": 3
+        }
+    ],
+    "119": [
+        {
+            "score": 119,
+            "suggestion": "T20 T19 D1",
+            "description": "Triple 20 + Triple 19 + Double 1",
+            "dartsNeeded": 3
+        }
+    ],
+    "120": [
+        {
+            "score": 120,
+            "suggestion": "T20 T18 D3",
+            "description": "Triple 20 + Triple 18 + Double 3",
+            "dartsNeeded": 3
+        }
+    ],
+    "121": [
+        {
+            "score": 121,
+            "suggestion": "T20 T19 D2",
+            "description": "Triple 20 + Triple 19 + Double 2",
+            "dartsNeeded": 3
+        }
+    ],
+    "122": [
+        {
+            "score": 122,
+            "suggestion": "T20 T20 D1",
+            "description": "Triple 20 + Triple 20 + Double 1",
+            "dartsNeeded": 3
+        }
+    ],
+    "123": [
+        {
+            "score": 123,
+            "suggestion": "T20 T19 D3",
+            "description": "Triple 20 + Triple 19 + Double 3",
+            "dartsNeeded": 3
+        }
+    ],
+    "124": [
+        {
+            "score": 124,
+            "suggestion": "T20 T20 D2",
+            "description": "Triple 20 + Triple 20 + Double 2",
+            "dartsNeeded": 3
+        }
+    ],
+    "125": [
+        {
+            "score": 125,
+            "suggestion": "T20 T19 D4",
+            "description": "Triple 20 + Triple 19 + Double 4",
+            "dartsNeeded": 3
+        }
+    ],
+    "126": [
+        {
+            "score": 126,
+            "suggestion": "T20 T20 D3",
+            "description": "Triple 20 + Triple 20 + Double 3",
+            "dartsNeeded": 3
+        }
+    ],
+    "127": [
+        {
+            "score": 127,
+            "suggestion": "T20 T19 D5",
+            "description": "Triple 20 + Triple 19 + Double 5",
+            "dartsNeeded": 3
+        }
+    ],
+    "128": [
+        {
+            "score": 128,
+            "suggestion": "T20 T20 D4",
+            "description": "Triple 20 + Triple 20 + Double 4",
+            "dartsNeeded": 3
+        }
+    ],
+    "129": [
+        {
+            "score": 129,
+            "suggestion": "T20 T19 D6",
+            "description": "Triple 20 + Triple 19 + Double 6",
+            "dartsNeeded": 3
+        }
+    ],
+    "130": [
+        {
+            "score": 130,
+            "suggestion": "T20 T20 D5",
+            "description": "Triple 20 + Triple 20 + Double 5",
+            "dartsNeeded": 3
+        }
+    ],
+    "131": [
+        {
+            "score": 131,
+            "suggestion": "T20 T19 D7",
+            "description": "Triple 20 + Triple 19 + Double 7",
+            "dartsNeeded": 3
+        }
+    ],
+    "132": [
+        {
+            "score": 132,
+            "suggestion": "T20 T20 D6",
+            "description": "Triple 20 + Triple 20 + Double 6",
+            "dartsNeeded": 3
+        }
+    ],
+    "133": [
+        {
+            "score": 133,
+            "suggestion": "T20 T19 D8",
+            "description": "Triple 20 + Triple 19 + Double 8",
+            "dartsNeeded": 3
+        }
+    ],
+    "134": [
+        {
+            "score": 134,
+            "suggestion": "T20 T20 D7",
+            "description": "Triple 20 + Triple 20 + Double 7",
+            "dartsNeeded": 3
+        }
+    ],
+    "135": [
+        {
+            "score": 135,
+            "suggestion": "T20 T19 D9",
+            "description": "Triple 20 + Triple 19 + Double 9",
+            "dartsNeeded": 3
+        }
+    ],
+    "136": [
+        {
+            "score": 136,
+            "suggestion": "T20 T20 D8",
+            "description": "Triple 20 + Triple 20 + Double 8",
+            "dartsNeeded": 3
+        }
+    ],
+    "137": [
+        {
+            "score": 137,
+            "suggestion": "T20 T19 D10",
+            "description": "Triple 20 + Triple 19 + Double 10",
+            "dartsNeeded": 3
+        }
+    ],
+    "138": [
+        {
+            "score": 138,
+            "suggestion": "T20 T20 D9",
+            "description": "Triple 20 + Triple 20 + Double 9",
+            "dartsNeeded": 3
+        }
+    ],
+    "139": [
+        {
+            "score": 139,
+            "suggestion": "T20 T19 D11",
+            "description": "Triple 20 + Triple 19 + Double 11",
+            "dartsNeeded": 3
+        }
+    ],
+    "140": [
+        {
+            "score": 140,
+            "suggestion": "T20 T20 D10",
+            "description": "Triple 20 + Triple 20 + Double 10",
+            "dartsNeeded": 3
+        }
+    ],
+    "141": [
+        {
+            "score": 141,
+            "suggestion": "T20 T19 D12",
+            "description": "Triple 20 + Triple 19 + Double 12",
+            "dartsNeeded": 3
+        }
+    ],
+    "142": [
+        {
+            "score": 142,
+            "suggestion": "T20 T20 D11",
+            "description": "Triple 20 + Triple 20 + Double 11",
+            "dartsNeeded": 3
+        }
+    ],
+    "143": [
+        {
+            "score": 143,
+            "suggestion": "T20 T19 D13",
+            "description": "Triple 20 + Triple 19 + Double 13",
+            "dartsNeeded": 3
+        }
+    ],
+    "144": [
+        {
+            "score": 144,
+            "suggestion": "T20 T20 D12",
+            "description": "Triple 20 + Triple 20 + Double 12",
+            "dartsNeeded": 3
+        }
+    ],
+    "145": [
+        {
+            "score": 145,
+            "suggestion": "T20 T19 D14",
+            "description": "Triple 20 + Triple 19 + Double 14",
+            "dartsNeeded": 3
+        }
+    ],
+    "146": [
+        {
+            "score": 146,
+            "suggestion": "T20 T20 D13",
+            "description": "Triple 20 + Triple 20 + Double 13",
+            "dartsNeeded": 3
+        }
+    ],
+    "147": [
+        {
+            "score": 147,
+            "suggestion": "T20 T19 D15",
+            "description": "Triple 20 + Triple 19 + Double 15",
+            "dartsNeeded": 3
+        }
+    ],
+    "148": [
+        {
+            "score": 148,
+            "suggestion": "T20 T20 D14",
+            "description": "Triple 20 + Triple 20 + Double 14",
+            "dartsNeeded": 3
+        }
+    ],
+    "149": [
+        {
+            "score": 149,
+            "suggestion": "T20 T19 D16",
+            "description": "Triple 20 + Triple 19 + Double 16",
+            "dartsNeeded": 3
+        }
+    ],
+    "150": [
+        {
+            "score": 150,
+            "suggestion": "T20 T20 D15",
+            "description": "Triple 20 + Triple 20 + Double 15",
+            "dartsNeeded": 3
+        }
+    ],
+    "151": [
+        {
+            "score": 151,
+            "suggestion": "T20 T19 D17",
+            "description": "Triple 20 + Triple 19 + Double 17",
+            "dartsNeeded": 3
+        }
+    ],
+    "152": [
+        {
+            "score": 152,
+            "suggestion": "T20 T20 D16",
+            "description": "Triple 20 + Triple 20 + Double 16",
+            "dartsNeeded": 3
+        }
+    ],
+    "153": [
+        {
+            "score": 153,
+            "suggestion": "T20 T19 D18",
+            "description": "Triple 20 + Triple 19 + Double 18",
+            "dartsNeeded": 3
+        }
+    ],
+    "154": [
+        {
+            "score": 154,
+            "suggestion": "T20 T20 D17",
+            "description": "Triple 20 + Triple 20 + Double 17",
+            "dartsNeeded": 3
+        }
+    ],
+    "155": [
+        {
+            "score": 155,
+            "suggestion": "T20 T19 D19",
+            "description": "Triple 20 + Triple 19 + Double 19",
+            "dartsNeeded": 3
+        }
+    ],
+    "156": [
+        {
+            "score": 156,
+            "suggestion": "T20 T20 D18",
+            "description": "Triple 20 + Triple 20 + Double 18",
+            "dartsNeeded": 3
+        }
+    ],
+    "157": [
+        {
+            "score": 157,
+            "suggestion": "T20 T19 D20",
+            "description": "Triple 20 + Triple 19 + Double 20",
+            "dartsNeeded": 3
+        }
+    ],
+    "158": [
+        {
+            "score": 158,
+            "suggestion": "T20 T20 D19",
+            "description": "Triple 20 + Triple 20 + Double 19",
+            "dartsNeeded": 3
+        }
+    ],
+    "160": [
+        {
+            "score": 160,
+            "suggestion": "T20 T20 D20",
+            "description": "Triple 20 + Triple 20 + Double 20",
+            "dartsNeeded": 3
+        }
+    ],
+    "161": [
+        {
+            "score": 161,
+            "suggestion": "T20 T17 D25",
+            "description": "Triple 20 + Triple 17 + Double 25 (bull)",
+            "dartsNeeded": 3
+        }
+    ],
+    "164": [
+        {
+            "score": 164,
+            "suggestion": "T20 T18 D25",
+            "description": "Triple 20 + Triple 18 + Double 25 (bull)",
+            "dartsNeeded": 3
+        }
+    ],
+    "167": [
+        {
+            "score": 167,
+            "suggestion": "T20 T19 D25",
+            "description": "Triple 20 + Triple 19 + Double 25 (bull)",
+            "dartsNeeded": 3
+        }
+    ],
+    "170": [
+        {
+            "score": 170,
+            "suggestion": "T20 T20 D25",
+            "description": "Triple 20 + Triple 20 + Double 25 (bull)",
+            "dartsNeeded": 3
+        }
+    ]
+}
