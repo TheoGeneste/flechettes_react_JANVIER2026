@@ -2,6 +2,7 @@ import { useState } from "react"
 import Config from "./pages/Config";
 import { ToastContainer } from "react-toastify";
 import GamePage from "./pages/GamePage";
+import EndGamePage from "./pages/EndGamePage";
 
 
 function App() {
@@ -24,7 +25,7 @@ function App() {
         typeOutOfGame={typeOutOfGame} setTypeOutOfGame={setTypeOutOfGame} setPage={setPage} />}
       {page == "Game" && <GamePage gameMode={gameMode}
         players={players} setPlayers={setPlayers} setPage={setPage} typeOutOfGame={typeOutOfGame} />}
-        {page == "EndGame" && <h1>Fin de partie</h1>}
+      {page == "EndGame" && <EndGamePage gameMode={gameMode} players={players} setPlayers={setPlayers} setPage={setPage} typeOutOfGame={typeOutOfGame} />}
       <ToastContainer
         position="bottom-right"
         autoClose={5000}

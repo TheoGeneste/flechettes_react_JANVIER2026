@@ -124,7 +124,7 @@ const GamePage = ({ players, setPlayers, typeOutOfGame, gameMode, setPage }) => 
                     numbreFlechette++;
                 }
             }
-            return total / numbreFlechette;
+            return (total / numbreFlechette).toFixed(2);
         }
         return 0;
     }
